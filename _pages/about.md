@@ -41,7 +41,7 @@ I am fortunate to collaborate with Yu Yang, Zhishuai Liu (lab members), [Ruoxi C
 
 - **Rethinking Langevin Thompson Sampling from A Stochastic Approximation Perspective** [[Paper]](https://arxiv.org/abs/2510.05023)
   
-  <p><b>Weixin Wang<sup>*</sup></b>, Haoyang Zheng<sup>*</sup>, Guang Lin, We Deng, Pan Xu</p>
+  <p><b>Weixin Wang<sup>*</sup></b>, Haoyang Zheng<sup>*</sup>, Guang Lin, Wei Deng, Pan Xu</p>
 
   *NeurIPS 2025 Workshop: Dynamics at the Frontiers of Optimization, Sampling, and Games (DynaFront).*
 

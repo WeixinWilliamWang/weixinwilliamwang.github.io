@@ -51,7 +51,7 @@ My research centers on **Machine Learning**, with a focus on developing computat
   
 - **Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [[Paper]](https://arxiv.org/abs/2503.18991)
   
-  <p>Ruoxi Cheng<sup>*</sup>, Haoxuan Ma<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, , Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia</p>
+  <p>Ruoxi Cheng<sup>*</sup>, Haoxuan Ma<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia</p>
 
   *Under review at ICLR 2026.*
 

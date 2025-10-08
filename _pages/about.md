@@ -20,13 +20,13 @@ redirect_from:
 <span id="about-me"></span>
 # 👤 About Me
 
-I am Weixin Wang, a second year Ph.D. student in [**Prof. Pan Xu**](https://panxulab.github.io/)’s lab at Duke University. 
+I am Weixin Wang, a third year Ph.D. student in [**Prof. Pan Xu**](https://panxulab.github.io/)’s lab at Duke University. 
 
-My current research interests focus on **Reinforcement Learning Theory**, particularly **Thompson Sampling** and other **Randomized Exploration Methods**. I am also interested in **Robust RL**, **In-Context RL** and **Diffusion Models**.
-
+My research centers on **Machine Learning**, with a focus on developing computationally and data-efficient algorithms that feature both strong empirical performance and rigorous theoretical guarantees. My core interests span **Reinforcement Learning (RL) Theory**, particularly *Thompson Sampling*, *Ensemble Sampling*, and other *Randomized Exploration methods* in RL. I also maintain broad interests in **Diffusion Models**, **Large Language Models (LLMs)**, **Robust RL**, **Artificial Intelligence**, and **High-Dimensional Statistics**.
 
 <span id="news"></span>
 # 🔥 News
+- *2025.8*: &nbsp; I attended Princeton 2025 Machine Learning Theory Summer School!
 - *2025.5*: &nbsp;🎉🎉 **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** is accepted as [**Poster**](https://icml.cc/virtual/2025/poster/44017) to **ICML 2025**!
 - *2024.9*: &nbsp;🎉🎉 **Randomized Exploration in Cooperative Multi-agent Reinforcement Learning** is accepted as [**Poster**](https://nips.cc/virtual/2024/poster/96449) to **NeurIPS 2024**!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->

@@ -37,23 +37,53 @@ My research centers on **Machine Learning**, with a focus on developing computat
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
-- **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) [[Code]](https://github.com/panxulab/MARL-CoopTS)
-
-  <p>Hao-Lun Hsu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Miroslav Pajic, Pan Xu</p>
+- **Rethinking Langevin Thompson Sampling from A Stochastic Approximation Perspective** [[Paper]](https://arxiv.org/abs/2510.05023)
   
-  *In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.*
+  <p><b>Weixin Wang<sup>*</sup></b>, Haoyang Zheng<sup>*</sup>, Guang Lin, We Deng, Pan Xu</p>
+
+  *NeurIPS 2025 Workshop: Dynamics at the Frontiers of Optimization, Sampling, and Games (DynaFront).*
+
+- **Diffusion Posterior Sampling for Nonlinear Contextual Bandits**
+  
+  <p><b>Weixin Wang<sup>*</sup></b>, Yu Yang<sup>*</sup>, Pan Xu</p>
+
+  *Under review at ICLR 2026.*
+  
+- **Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [[Paper]](https://arxiv.org/abs/2503.18991)
+  
+  <p>Ruoxi Cheng<sup>*</sup>, Haoxuan Ma<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, , Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia</p>
+
+  *Under review at ICLR 2026.*
+
+- **Provable Anytime Ensemble Sampling Algorithms in Nonlinear Contextual Bandits**
+  
+  <p>Jiazheng Sun<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
+
+  *Under review at ICLR 2026.*
+
+- **Breaking the Total Variance Barrier: Sharp Sample Complexity for Linear Heteroscedastic Bandits with Fixed Action Set**
+  
+  <p>Heyang Zhao<sup>*</sup>, Tianyuan Jin<sup>*</sup>, <b>Weixin Wang</b>, Vincent Y. F. Tan, Pan Xu, Quanquan Gu</p>
+
+  *Under review at ICLR 2026.*
 
 - **Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2409.20521)
   
   <p>Zhishuai Liu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
 
-  *Preprint arXiv: 2409.20521.*
+  *NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.*
 
 - **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** [[Paper]](https://openreview.net/pdf?id=pJdMOKqdSV)
 
   <p>Yiting He<sup>*</sup>, Zhishuai Liu<sup>*</sup>, <b>Weixin Wang</b>, Pan Xu</p>
   
   *In Proc. of the 42nd International Conference on Machine Learning (ICML), Vancouver, Canada, 2025.*
+
+- **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) [[Code]](https://github.com/panxulab/MARL-CoopTS)
+
+  <p>Hao-Lun Hsu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Miroslav Pajic, Pan Xu</p>
+  
+  *In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.*
 
 
 <!-- <span id="honors-and-awards"></span> -->

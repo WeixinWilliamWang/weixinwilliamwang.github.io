@@ -59,7 +59,7 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 
   *Under review at ICLR 2026.*
 
-- **Provable Anytime Ensemble Sampling Algorithms in Nonlinear Contextual Bandits**
+- **Provable Anytime Ensemble Sampling Algorithms in Nonlinear Contextual Bandits** [[Paper]](https://arxiv.org/abs/2510.10730)
   
   <p>Jiazheng Sun<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
 

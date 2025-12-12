@@ -24,7 +24,7 @@ I am Weixin Wang, a third year Ph.D. student in [**Prof. Pan Xu**](https://panxu
 
 My research centers on **Machine Learning**, with a focus on developing computationally and data-efficient algorithms that feature both strong empirical performance and rigorous theoretical guarantees. My core interests span **Reinforcement Learning (RL) Theory**, particularly *Thompson Sampling*, *Ensemble Sampling*, and other *Randomized Exploration methods* in RL. I also maintain broad interests in **Diffusion Models**, **Large Language Models (LLMs)**, **Robust RL**, **Artificial Intelligence**, and **High-Dimensional Statistics**.
 
-I am fortunate to collaborate with Yu Yang, Zhishuai Liu (lab members), [Ruoxi Cheng](https://rosy0912.github.io/), [Haoyang Zheng](https://haoyangzheng.github.io/), [Wei Deng](https://www.weideng.org/), [Hao-Lun Hsu](https://hlhsu.github.io/) and many other excellent researchers. 
+I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zhishuai Liu](https://zhishuailiu.github.io/) (lab members), [Ruoxi Cheng](https://rosy0912.github.io/), [Haoyang Zheng](https://haoyangzheng.github.io/), [Wei Deng](https://www.weideng.org/), [Hao-Lun Hsu](https://hlhsu.github.io/) and many other excellent researchers. 
 
 <span id="news"></span>
 # 🔥 News

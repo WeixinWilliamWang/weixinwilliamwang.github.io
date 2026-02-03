@@ -28,6 +28,7 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 
 <span id="news"></span>
 # 🔥 News
+- *2025.1*: &nbsp; Two papers are accepted to **ICLR 2026**.
 - *2025.12*: &nbsp; I attended NeurIPS 2025 at San Diego!
 - *2025.8*: &nbsp; I attended Princeton 2025 Machine Learning Theory Summer School!
 - *2025.5*: &nbsp;🎉🎉 **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** is accepted as [**Poster**](https://icml.cc/virtual/2025/poster/44017) to **ICML 2025**!
@@ -51,25 +52,25 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
   
   <p><b>Weixin Wang<sup>*</sup></b>, Yu Yang<sup>*</sup>, Pan Xu</p>
 
-  *Under review at ICLR 2026.*
+  *Under review.*
   
 - **Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [[Paper]](https://arxiv.org/abs/2503.18991)
   
   <p>Ruoxi Cheng<sup>*</sup>, Haoxuan Ma<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia</p>
 
-  *Under review at ICLR 2026.*
+  *In Proc. of the 14th International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026.*
 
 - **Provable Anytime Ensemble Sampling Algorithms in Nonlinear Contextual Bandits** [[Paper]](https://arxiv.org/abs/2510.10730)
   
   <p>Jiazheng Sun<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
 
-  *Under review at ICLR 2026.*
+  *Under review.*
 
 - **Breaking the Total Variance Barrier: Sharp Sample Complexity for Linear Heteroscedastic Bandits with Fixed Action Set**
   
   <p>Heyang Zhao<sup>*</sup>, Tianyuan Jin<sup>*</sup>, <b>Weixin Wang</b>, Vincent Y. F. Tan, Pan Xu, Quanquan Gu</p>
 
-  *Under review at ICLR 2026.*
+  *In Proc. of the 14th International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026.*
 
 - **Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2409.20521)
   

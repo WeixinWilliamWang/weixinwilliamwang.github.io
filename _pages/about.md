@@ -88,7 +88,7 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 
   <p>Hao-Lun Hsu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Miroslav Pajic, Pan Xu</p>
   
-  *In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.*
+  *In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (NeurIPS), Vancouver, Canada, 2024.*
 
 
 

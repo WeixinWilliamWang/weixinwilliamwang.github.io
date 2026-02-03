@@ -28,7 +28,7 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 
 <span id="news"></span>
 # 🔥 News
-- *2026.1*: &nbsp; Two papers are accepted to **ICLR 2026**.
+- *2026.1*: &nbsp;🎉🎉 Two papers are accepted to **ICLR 2026**.
 - *2025.12*: &nbsp; I attended NeurIPS 2025 at San Diego!
 - *2025.8*: &nbsp; I attended Princeton 2025 Machine Learning Theory Summer School!
 - *2025.5*: &nbsp;🎉🎉 **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** is accepted as [**Poster**](https://icml.cc/virtual/2025/poster/44017) to **ICML 2025**!

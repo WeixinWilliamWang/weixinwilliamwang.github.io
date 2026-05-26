@@ -27,7 +27,8 @@ My research centers on **Machine Learning**, with a focus on developing computat
 I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zhishuai Liu](https://zhishuailiu.github.io/) (lab members), [Ruoxi Cheng](https://rosy0912.github.io/), [Haoyang Zheng](https://haoyangzheng.github.io/), [Wei Deng](https://www.weideng.org/), [Hao-Lun Hsu](https://hlhsu.github.io/) and many other excellent researchers. 
 
 <span id="news"></span>
-# 🔥 News
+# 🔥 News 
+- *2026.6*: &nbsp; I will be joining **Morgan Stanley** in New York this summer as a Machine Learning Research Associate mentored by [Andrew Bennett](https://awbennett.net/)!
 - *2026.1*: &nbsp;🎉🎉 Two papers are accepted to **ICLR 2026**.
 - *2025.12*: &nbsp; I attended NeurIPS 2025 at San Diego!
 - *2025.8*: &nbsp; I attended Princeton 2025 Machine Learning Theory Summer School!
@@ -42,13 +43,19 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
+- **Inference-Time Alignment of Diffusion Models via Trust-Region Iterative Twisted Sequential Monte Carlo** [[Paper]](https://arxiv.org/abs/2605.25123)
+  
+  <p><b>Weixin Wang<sup>*</sup></b>, Yu Yang<sup>*</sup>, Wei Deng, Pan Xu</p>
+
+  *Under review.*
+
 - **Rethinking Langevin Thompson Sampling from A Stochastic Approximation Perspective** [[Paper]](https://arxiv.org/abs/2510.05023)
   
   <p><b>Weixin Wang<sup>*</sup></b>, Haoyang Zheng<sup>*</sup>, Guang Lin, Wei Deng, Pan Xu</p>
 
   *NeurIPS 2025 Workshop: Dynamics at the Frontiers of Optimization, Sampling, and Games (DynaFront).*
 
-- **Diffusion Posterior Sampling for Nonlinear Contextual Bandits**
+- **Diffusion Posterior Sampling for Fast Adaptation in Multi-task Nonlinear Contextual Bandits**
   
   <p><b>Weixin Wang<sup>*</sup></b>, Yu Yang<sup>*</sup>, Pan Xu</p>
 

@@ -110,6 +110,10 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* -->
 
+<span id="internships"></span>
+# 💻 Internships
+- *2026.06 - 2026.08*, Machine Learning Research Associate, Morgan Stanley.
+
 
 <span id="educations"></span>
 # 📖 Educations
@@ -120,7 +124,3 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, -->
 
-
-<!-- <span id="internships"></span> -->
-<!-- # 💻 Internships -->
-<!-- - *2019.05 - 2020.02*, -->

@@ -86,11 +86,11 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 
   *In Proc. of the 14th International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026.*
 
-- **Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2409.20521)
+- **Near-Optimal Reinforcement Learning for Linear Distributionally Robust Markov Decision Processes** [[Paper]](https://arxiv.org/abs/2409.20521)
   
   <p>Zhishuai Liu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
 
-  *NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.*
+  *Reinforcement Learning Journal (RLJ), vol. 7, 2026. Presented at the Third Reinforcement Learning Conference (RLC 2026), Montréal, Canada.*
 
 - **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** [[Paper]](https://openreview.net/pdf?id=pJdMOKqdSV)
 

@@ -43,6 +43,13 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
+- **Decoupled Marginal Sharpening for Training-Free Inference-Time Scaling**
+- 
+  <p><b>Weixin Wang</b>, Wei Deng, Anderson Schneider, Yuriy Nevmyvaka, Pan Xu, Andrew Bennett</p>
+
+  *Under review.*
+
+
 - **Inference-Time Alignment of Diffusion Models via Trust-Region Iterative Twisted Sequential Monte Carlo** [[Paper]](https://arxiv.org/abs/2605.25123)
   
   <p><b>Weixin Wang<sup>*</sup></b>, Yu Yang<sup>*</sup>, Wei Deng, Pan Xu</p>

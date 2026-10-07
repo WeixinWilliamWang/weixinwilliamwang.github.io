@@ -44,7 +44,7 @@ I am fortunate to collaborate with [Yu Yang](https://yangyu0879.github.io/), [Zh
 <!-- <div class='paper-box-text' markdown="1"> -->
 
 - **Decoupled Marginal Sharpening for Training-Free Inference-Time Scaling**
-- 
+  
   <p><b>Weixin Wang</b>, Wei Deng, Anderson Schneider, Yuriy Nevmyvaka, Pan Xu, Andrew Bennett</p>
 
   *Under review.*
